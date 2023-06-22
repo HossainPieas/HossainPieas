@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @HossainPieas
-- 👀 I’m interested in statistics and data and want to work in the financial sector where I think I want to work on machine learning.
-- 🌱 I’m currently learning SQL because I want a better grasp on these.
-- 💞️ I’m looking to collaborate on anything any ML related work in the future.
-- 📫 How to reach me on my email or other social media seeing my name.
+👋 Hi, I’m @HossainPieas
+
+📈 Investment Banker with enthusiams in Data Science | Exploring the intersection of finance and data 📊
+
+💼 Experienced in financial analysis, M&A, and capital raising strategies 🏦
+
+🔍 Learning data science to leverage insights for smarter investment decisions 💡
+
+📚 Currently diving into machine learning, data analysis, and visualization 🤖📊
+
+🚀 Passionate about bridging the gap between finance and technology 🌉
+
+🌐 Connect with me to discuss collaborations and ideas! 🤝
 
 <!---
 HossainPieas/HossainPieas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
